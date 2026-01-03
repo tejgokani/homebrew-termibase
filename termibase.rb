@@ -3,7 +3,7 @@ class Termibase < Formula
   desc "A terminal-native database learning playground"
   homepage "https://github.com/tejgokani/TermiBase"
   url "https://github.com/tejgokani/TermiBase/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "42ec0c57484bc1aa947b92866bdc6ef7a35efa02211ba293386d33e150df848f"
+  sha256 "c131a550e7222ccf633f1097a707e14763ffce3447eb09a5097af5874c11d294"
   version "0.2.0"
   license "MIT"
 
